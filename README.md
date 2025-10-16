@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Hasan Siddiqui — Staff Software Engineer | Backend Engineer | Software Architect | Cloud-Native system | AI Enthusiast
+# 👋 Hi, I'm Hasan Siddiqui — Staff Software Engineer | Backend Engineer | Software Architect | Cloud-Native Systems | AI Enthusiast
 
-Welcome to my GitHub! I'm a backend-focused software engineer with a strong foundation in cloud architecture, .NET, and Python ecosystems. I thrive on solving complex system design problems and integrating AI-powered solutions into real-world applications.
+Welcome to my GitHub! I'm a backend-focused Staff Software Engineer with a strong foundation in cloud architecture, .NET, and Python ecosystems. I specialize in designing and delivering scalable, distributed systems — with a passion for clean code, system resiliency, and AI-powered automation.
 
-With hands-on experience across AWS and Azure, I build scalable, distributed, and fault-tolerant systems — and believe in writing clean, testable, and maintainable code.
+With hands-on experience across both AWS and Azure, I lead initiatives that modernize legacy systems, introduce cloud-native practices, and apply Large Language Models (LLMs) to solve real-world business challenges.
 
 ---
 
@@ -17,17 +17,18 @@ Docker, Git, GitHub Actions, Azure DevOps, Postman
 
 **Cloud Platforms:**  
 AWS (Lambda, SQS, SNS, API Gateway, AppSync), Microsoft Azure  
-Serverless, CI/CD  
+Serverless Architectures, CI/CD  
 
 **Databases & Caching:**  
-Microsoft SQL Server, PostgreSQL, Redis, MongoDB (basic)  
+Microsoft SQL Server, PostgreSQL, Redis, MongoDB (familiar)  
 
 **Architecture & Dev Practices:**  
 Cloud Architecture, Event-Driven Systems, Distributed Systems  
-TDD, DDD, Clean Architecture, Microservices, CI/CD, Agile (Scrum & Kanban), Pair Programming  
+Microservices, Monolith-to-Microservices, TDD, DDD, Clean Architecture  
+CI/CD, Agile (Scrum & Kanban), Pair Programming  
 
 **AI & ML:**  
-LLM Integration, Prompt Engineering (ChatGPT, Copilot, Cursor)  
+LLM Integration, Prompt Engineering (ChatGPT, GitHub Copilot, Cursor)  
 
 **Frontend (Familiar):**  
 Angular, TypeScript, JavaScript, HTML, CSS  
@@ -36,21 +37,21 @@ Angular, TypeScript, JavaScript, HTML, CSS
 
 ## 💼 Experience Highlights
 
-- 🚀 Designed and deployed a **serverless, event-driven system** on AWS using Lambda, SQS, SNS, AppSync, and API Gateway.
-- 🧠 Integrated **OpenAI APIs** into MVPs for intelligent document processing and automation.
-- 📦 Re-architected monoliths into distributed **microservices** with .NET 6, RabbitMQ, and Kafka.
-- 📊 Led GraphQL adoption across teams, reducing over-fetching and improving API performance.
-- 🔐 Refined JWT authentication using refresh tokens in Angular for improved security.
-- 💰 Reduced AWS infrastructure cost by optimizing cold starts and automating deployments.
-- 🛠 Built **CI/CD pipelines** for multi-environment deployments using Azure DevOps.
-- 🧪 Implemented resiliency patterns (Polly), improved observability (CloudWatch), and wrote extensive unit/integration tests using TDD.
-- 🧹 Refactored legacy components using Clean Architecture and Domain-Driven Design, reducing technical debt.
-- 🧠 Resolved a **20-year-old memory leak** in a legacy COM+ system.
-- ☁️ Led a cloud migration project to **Microsoft Azure**, supporting 40,000+ concurrent users.
-- 🧾 Developed a **GDPR-compliant data masking** utility for multiple data sources.
-- 💳 Integrated **Authorize.net** payment gateway with fraud-prevention test cases.
-- ⚙️ Automated complex order processing, boosting daily throughput by 38%.
-- 🔍 Fixed race conditions in a multi-threaded web scraping tool.
+- 🚀 Designed and deployed a **fully serverless, event-driven system** using AWS Lambda, SQS, SNS, AppSync, and API Gateway.
+- 🧠 Integrated **OpenAI APIs** into MVPs for document summarization, automation, and intelligent workflows.
+- 📦 Re-architected legacy monoliths into **cloud-native microservices** with .NET 6, RabbitMQ, and Kafka.
+- 📊 Led GraphQL adoption across teams, improving performance and eliminating over-fetching.
+- 🔐 Enhanced security by implementing **refresh-token-based JWT authentication** in Angular.
+- 💰 Reduced AWS costs by optimizing Lambda cold starts and automating infrastructure with IaC.
+- 🛠 Established **multi-stage CI/CD pipelines** using Azure DevOps across dev, QA, and production.
+- 🧪 Applied TDD and resiliency patterns (Polly), improving system stability and test coverage.
+- 🧹 Refactored legacy modules using Clean Architecture and DDD to reduce technical debt.
+- 🧠 Resolved a **20-year-old memory leak** in a legacy COM+ component via proper object disposal.
+- ☁️ Led migration of an enterprise app to **Microsoft Azure hybrid cloud**, scaling to 40,000+ concurrent users.
+- 🧾 Built a **GDPR-compliant data masking utility** supporting multi-region data sources.
+- 💳 Integrated **Authorize.net payment gateway** with 30+ test cases for fraud detection.
+- ⚙️ Automated order processing pipelines, increasing daily order capacity by 38%.
+- 🔍 Debugged and fixed multithreaded race conditions in legacy scraping systems.
 
 ---
 
@@ -63,9 +64,9 @@ Angular, TypeScript, JavaScript, HTML, CSS
 
 ## 🧾 Certifications
 
-- 🏅 Azure Solutions Architect Expert  
-- 🏅 DevOps Engineer Expert  
-- 🏅 Azure Developer Associate  
+- 🏅 Microsoft Certified: Azure Solutions Architect Expert  
+- 🏅 Microsoft Certified: DevOps Engineer Expert  
+- 🏅 Microsoft Certified: Azure Developer Associate  
 
 ---
 
@@ -73,22 +74,22 @@ Angular, TypeScript, JavaScript, HTML, CSS
 
 **Software Engineer – [wati.io](https://wati.io)**  
 _Remote | Jan 2018 – Feb 2018_  
-- Fixed JavaScript bugs in the TCP communication module.  
-- Increased code coverage to 90% in the fraud detection module with well-written test cases.
+- Fixed JavaScript issues in the TCP communication module.  
+- Increased fraud detection module’s test coverage to 90% through comprehensive test cases.
 
 ---
 
 ## 🚀 Extra-Curricular
 
-- 🧠 Finalist (Top 16 out of 1,000+) at Accenture India’s innovation challenge for an AI-ML–based MVP.
+- 🧠 Finalist (Top 16 out of 1,000+) at Accenture India’s innovation challenge for an AI/ML-powered MVP.
 
 ---
 
-### 📫 Get in touch
+## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/2917hs/)) or reach out via [E-Mail]([hasan190889@proton.me]).
+- [LinkedIn](https://www.linkedin.com/in/2917hs/)  
+- [Email](mailto:hasan190889@proton.me)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
